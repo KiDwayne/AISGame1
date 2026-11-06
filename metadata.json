@@ -1,0 +1,6 @@
+{
+  "name": "Outpost Zero: Gun Stand Defense",
+  "description": "Tactical top-down zombie horde defense game with heavy artillery, automated flank turrets, roguelike wave drafts, and permanent military tech tree upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
